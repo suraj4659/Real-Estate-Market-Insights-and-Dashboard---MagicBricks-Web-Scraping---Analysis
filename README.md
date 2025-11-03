@@ -98,7 +98,7 @@ This dashboard enables **real-time data exploration** and quick insights for dec
 ---
 
 ## 📬 About
-**Author:** [Your Name]  
+**Author:** =[suraj prasad]  
 **Role:** Aspiring Data Analyst / Data Scientist  
 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/suraj-n-prasad-207b9532a/)  
 
