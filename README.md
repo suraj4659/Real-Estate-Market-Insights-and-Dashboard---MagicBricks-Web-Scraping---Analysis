@@ -96,6 +96,6 @@ This dashboard enables **real-time data exploration** and quick insights for dec
 ## 📬 About
 **Author:** [Your Name]  
 **Role:** Aspiring Data Analyst / Data Scientist  
-**Connect with me on:** [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Connect with me on:** [LinkedIn](https://www.linkedin.com/in/suraj-n-prasad-207b9532a/)  
 
 > “Turning raw data into powerful business insights — one dashboard at a time.”
