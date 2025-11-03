@@ -1,4 +1,4 @@
-# 🏠  MagicBricks Web Scraping AND Analysis-PYTHON-POWER BI 
+# 🏠  MagicBricks Web Scraping And Analysis-PYTHON-POWER BI 
 
 ## 📌 Project Overview
 Ever wondered which Indian city secretly beats Mumbai in property rates?  
